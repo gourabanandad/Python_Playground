@@ -1,9 +1,6 @@
 
 ---
 
-## 📄 2. `YouTubePlayer/README.md`
-
-
 # YouTube Video Player 📺
 
 Play any YouTube video directly through a Python script!
