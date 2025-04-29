@@ -10,7 +10,7 @@ Play any YouTube video directly through a Python script!
 - Search and play videos by URL.
 
 ## Requirements
-- Python 3.x
+- Python 3.8+
 - pywhatkit
 
 Install dependencies:
